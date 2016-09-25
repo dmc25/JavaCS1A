@@ -11,7 +11,7 @@ public class Test {
 		String [] fileLocation = url.toString().split(":");
 		
 		EmployeeList e1 = new EmployeeList(fileLocation[fileLocation.length - 1]);
-		Employee em1 = new Employee("Damian Coln", "20262400", "1737 84th Ave, Oakland, CA 94621", "(650)892-6959", "08-14-1990", "TS");
+		Employee em1 = new Employee("Damian Blake", "15456464", "1234 E Grand st , North Dakota, CA 94111", "(650)868-3354", "08-14-1944", "TS");
 		Employee em2 = new Employee("Marquita Cogley", "30281481", "833 Grand St Boca Raton FL 33428", "(145) 164-5833",  "4/14/1965", "U");
 		Employee em3 = new Employee("Stephani Swarthout", "31921800", "39 Roehampton Ave Santa Cruz CA 95060", "(802) 925-5373", "5/8/1989", "C");
 		

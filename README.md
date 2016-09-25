@@ -1,2 +1,2 @@
 # JavaCS1A
-All assignments from Java CS 1A class
+All assignments from Java CS 1A class at foothill college. 
